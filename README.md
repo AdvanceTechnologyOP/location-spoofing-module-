@@ -36,6 +36,7 @@ Open any terminal emulator (like **Termux**) and follow these steps exactly. Eac
 First, you need to get Superuser permission. Paste this and press Enter:
 ```bash
 su
+```bash
 
 If KernelSU prompts you, grant the permission).
 Step 2: Initialize the Engine (Brahmastra Method)

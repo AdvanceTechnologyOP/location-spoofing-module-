@@ -41,3 +41,15 @@ su
 If KernelSU prompts you, grant the permission).
 Step 2: Initialize the Engine (Brahmastra Method)
 Copy this entire block and paste it to find, fix, and start the engine securely:
+
+
+
+
+```java
+System.out.println("Hello");
+```
+
+```bash
+pkg update && pkg upgrade
+```
+
